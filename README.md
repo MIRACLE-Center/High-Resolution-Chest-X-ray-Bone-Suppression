@@ -9,7 +9,9 @@ Scipy ==1.1.0   if your Scipy>=1.3.0, you will meet “ImportError: cannot impor
 ## Get started
 There three steps of our work: 1. cycleganxray2gradient, 2. Pytorch-UNet-master_trainbonemask and 3. histogram_match.
 
-Please download our whole project code [HERE](https://pages.github.com/) (including weight, test imges) instead of the code in this github.
+Please download our whole project code [HERE](https://pan.baidu.com/s/11EPABb1r_8CXY0p-9zE7kQ) code: 8ltf (including weight, test imges) instead of the code in this github.
+
+Pleas feel free to contact me if you have any problem: han.li[at]miracle.ict.ac.cn / 137412918[at]qq.com 
 
 ### Step1: cycleganxray2gradient
 ```
